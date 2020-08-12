@@ -1,0 +1,12 @@
+.imgCabeza{
+	width: 16%;
+	height: auto;
+	margin-left: -2%;
+}
+@media(max-width: 799px){
+	.imgCabeza{
+	width: 32%;
+	height: auto;
+	margin-left: -2%;
+}
+}
